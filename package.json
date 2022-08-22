@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "node": "^16.17.0"
+  },
+  "name": "rb-itservices",
+  "description": "website it-services.me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwarfsuomalainen/rb-itservices.git"
+  },
+  "author": "Roman Bogoudinov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwarfsuomalainen/rb-itservices/issues"
+  },
+  "homepage": "https://github.com/dwarfsuomalainen/rb-itservices#readme"
+}
