@@ -8,6 +8,7 @@
   "description": "website it-services.me",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://dwarfsuomalainen.github.io/rb-itservices",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
